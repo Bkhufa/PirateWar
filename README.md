@@ -14,5 +14,4 @@ Top-down endless rogue-lite pirate shooting game developed in Unity.
 - Left click for shooting
 
 # How to install
-- Open the `build` folder
-- Double click on `Pirate War.exe`
+- Double click on `Pirates War.exe`
